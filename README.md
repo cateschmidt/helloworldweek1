@@ -6,7 +6,7 @@ This software will use the javascript language to print "hello world" to the con
 
 The purpose of creating this software is to show that my development environment is working as expected, and that I am able to use github.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/kd4QortywDo)
 
 # Development Environment
 
